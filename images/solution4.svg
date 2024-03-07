@@ -1,0 +1,14 @@
+<svg width="60" height="62" viewBox="0 0 60 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="style-icon/check">
+<g id="icon">
+<path id="Union" opacity="0.7" fill-rule="evenodd" clip-rule="evenodd" d="M28.4464 21.4742C24.4962 25.8733 25.2979 32.6725 29.7072 36.6136C34.1166 40.5546 40.8877 39.7511 44.8379 35.3519L56.8164 22.105C60.7666 17.7059 59.9648 10.9066 55.5555 6.96557C51.1462 3.02451 44.375 3.82808 40.4248 8.22719L28.4464 21.4742Z" fill="url(#paint0_linear_461_23683)"/>
+</g>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M47.0953 8.47786C42.1689 4.74273 36.0275 2.52649 29.3684 2.52649C13.1487 2.52649 0 15.6752 0 31.8949C0 38.5539 2.21625 44.6954 5.95137 49.6218L47.0953 8.47786ZM11.1867 54.9601C16.1875 58.9075 22.5029 61.2633 29.3684 61.2633C45.5882 61.2633 58.7368 48.1146 58.7368 31.8949C58.7368 25.0294 56.381 18.714 52.4336 13.7132L11.1867 54.9601Z" fill="#1F2C6C"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_461_23683" x1="25.8945" y1="4.42114" x2="66.6499" y2="19.5769" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3FD0FF"/>
+<stop offset="1" stop-color="#2366F2"/>
+</linearGradient>
+</defs>
+</svg>
